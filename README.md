@@ -18,29 +18,6 @@
 - Web developer at the **Microsoft Innovations Club, VIT Chennai**, building the club site in Next.js and React.
 - Looking for internships in **ML, data science or software engineering**.
 
-### Featured project
-
-**[FootballIQ: Player Analytics and Recruitment Intelligence](https://github.com/Rohan1c/FootballIQ-Player-Analytics-and-Recruitment-Intelligence-System)**
-
-A football scouting toolkit built on two views of each player: match statistics (FBref) and scouted attributes (EA FC).
-
-- Links 2,366 players across the two sources with accent-insensitive record linkage.
-- Per-90 features with empirical-Bayes shrinkage, so a player with 90 minutes is not treated like one with 3,000.
-- Similar-player search, tactical role classification, replacement and partner recommendations, and a 4-3-3 builder.
-- Look-alike search across about 12,000 players outside the big five leagues.
-- A reproducible benchmark that compares every representation on the same players, including the cases where the simple baseline wins.
-
-`Python` `scikit-learn` `NumPy` `pandas` `Matplotlib` `NetworkX`
-
-### Other projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [Sudoku by simulated annealing](https://github.com/Rohan1c/SimulatedAnnealing_Sudoku) | Solves Sudoku with a conflict-based fitness function and a cooling schedule that escapes local minima | Python, NumPy |
-| [UrbanScope](https://github.com/Rohan1c/urbanscopeMain) | Click anywhere on a map to see weather, air quality and nearby amenities | JavaScript, Leaflet, OpenWeatherMap, AQICN, Overpass |
-| [SkinDiagonizer](https://github.com/Rohan1c/Medi) | Skin-condition classifier with prescription OCR and a web front end | Python, Next.js |
-| [Forest fire detector](https://github.com/Rohan1c/forest_fire_detector) | Detects fire in images with an object-detection model | Python |
-
 ### Skills
 
 **Languages**
@@ -68,12 +45,6 @@ A football scouting toolkit built on two views of each player: match statistics 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Certifications and results
-
-- AWS ML Engineer Associate: Curriculum Overview (AWS Training &amp; Certification, July 2026)
-- Essentials of Prompt Engineering (AWS Training &amp; Certification, September 2026)
-- Top 5 at DataSprint; top 10 at Medithon and Nexthon
 
 ### GitHub activity
 
